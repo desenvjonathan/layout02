@@ -17,7 +17,6 @@ nav {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 55px;
- 
 }
 
 ul {
@@ -28,7 +27,7 @@ ul {
   padding: 0;
 }
 
-a{
+a {
   text-decoration: none;
   color: #1F1534; 
 }
@@ -57,7 +56,6 @@ h1 {
   color: #1F1534;
   font-weight: normal;
   width: 490px;
-
 }
 
 h1 span {
