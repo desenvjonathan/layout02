@@ -1,0 +1,20 @@
+# Projeto 2 
+
+![preview](./.github/preview.png)
+
+> Trilha Explorer
+
+Projeto desenvolvido durante o curso Explorer da Rocketseat, no módulo de Novos conceitos de HTML e CSS.
+
+[Clique aqui para acessar](https://desenvjonathan.github.io/projeto02/)
+
+## Tecnologias
+
+- HTML
+- CSS
+- Git e Github
+
+## Contatos
+
+- E-mail: desenvjonathan@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/jonathan-ramos-p/
