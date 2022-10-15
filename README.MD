@@ -1,4 +1,4 @@
-# Projeto 2 
+# Layout 2 
 
 ![preview](./.github/preview.png)
 
